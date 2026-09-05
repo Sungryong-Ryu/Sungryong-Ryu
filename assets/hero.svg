@@ -1,22 +1,22 @@
 <svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#050509"/>
-      <stop offset="0.52" stop-color="#0A0A15"/>
-      <stop offset="1" stop-color="#030307"/>
+      <stop stop-color="#020604"/>
+      <stop offset="0.5" stop-color="#06130B"/>
+      <stop offset="1" stop-color="#020403"/>
     </linearGradient>
     <linearGradient id="neon" x1="140" y1="80" x2="1040" y2="350" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#42E8E0"/>
-      <stop offset="0.48" stop-color="#8A7CFF"/>
-      <stop offset="1" stop-color="#FF4FD8"/>
+      <stop stop-color="#1FC96A"/>
+      <stop offset="0.5" stop-color="#5AF09A"/>
+      <stop offset="1" stop-color="#159447"/>
     </linearGradient>
     <radialGradient id="orbA">
-      <stop stop-color="#42E8E0" stop-opacity=".7"/>
-      <stop offset="1" stop-color="#42E8E0" stop-opacity="0"/>
+      <stop stop-color="#0F8C43" stop-opacity=".72"/>
+      <stop offset="1" stop-color="#0F8C43" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="orbB">
-      <stop stop-color="#FF4FD8" stop-opacity=".58"/>
-      <stop offset="1" stop-color="#FF4FD8" stop-opacity="0"/>
+      <stop stop-color="#23B95C" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#23B95C" stop-opacity="0"/>
     </radialGradient>
     <filter id="blur"><feGaussianBlur stdDeviation="44"/></filter>
     <filter id="glow">
@@ -33,16 +33,16 @@
     <rect width="1200" height="430" fill="url(#bg)"/>
     <rect width="1200" height="430" fill="url(#grid)"/>
 
-    <circle cx="190" cy="92" r="210" fill="url(#orbA)" filter="url(#blur)">
-      <animate attributeName="cx" values="190;390;190" dur="9s" repeatCount="indefinite"/>
-      <animate attributeName="cy" values="92;170;92" dur="7s" repeatCount="indefinite"/>
+    <circle cx="490" cy="180" r="330" fill="url(#orbA)" filter="url(#blur)">
+      <animate attributeName="cx" values="490;710;490" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="180;220;180" dur="8s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="1010" cy="338" r="240" fill="url(#orbB)" filter="url(#blur)">
-      <animate attributeName="cx" values="1010;820;1010" dur="11s" repeatCount="indefinite"/>
-      <animate attributeName="cy" values="338;240;338" dur="8s" repeatCount="indefinite"/>
+    <circle cx="810" cy="250" r="260" fill="url(#orbB)" filter="url(#blur)">
+      <animate attributeName="cx" values="810;610;810" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="250;170;250" dur="9s" repeatCount="indefinite"/>
     </circle>
 
-    <g opacity=".55" filter="url(#glow)">
+    <g opacity=".22" filter="url(#glow)">
       <path d="M-40 286 C120 190 190 350 350 257 S610 175 770 268 S1020 342 1240 194" stroke="url(#neon)" stroke-width="2">
         <animate attributeName="d" dur="8s" repeatCount="indefinite"
           values="M-40 286 C120 190 190 350 350 257 S610 175 770 268 S1020 342 1240 194;M-40 250 C110 350 230 175 380 260 S650 350 800 238 S1050 170 1240 278;M-40 286 C120 190 190 350 350 257 S610 175 770 268 S1020 342 1240 194"/>
@@ -53,14 +53,20 @@
       </path>
     </g>
 
-    <text x="600" y="158" text-anchor="middle" fill="#F7F7FC" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="9">SUNGRYONG RYU</text>
-    <text x="600" y="207" text-anchor="middle" fill="url(#neon)" font-family="monospace" font-size="16" letter-spacing="4" filter="url(#glow)">MEDIA ARTIST · CREATIVE CODER</text>
-    <text x="600" y="352" text-anchor="middle" fill="#FFFFFF" fill-opacity=".42" font-family="monospace" font-size="11" letter-spacing="2.5">GENERATIVE SYSTEMS / REAL-TIME VISUALS / INTERACTION</text>
+    <rect x="478" y="62" width="244" height="30" rx="15" fill="#07120B" stroke="#39D77C" stroke-opacity=".38"/>
+    <circle cx="500" cy="77" r="4" fill="#39D77C" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;.3;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="610" y="81" text-anchor="middle" fill="#9AAB9F" font-family="monospace" font-size="10" letter-spacing="1.4">CREATIVE SIGNAL ONLINE</text>
 
-    <circle cx="600" cy="254" r="4" fill="#FFFFFF">
+    <text x="600" y="182" text-anchor="middle" fill="#F6FAF7" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="750" letter-spacing="-1">Hello New.</text>
+    <text x="600" y="251" text-anchor="middle" fill="#F6FAF7" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="750" letter-spacing="-1">The Power of Creativity</text>
+    <text x="600" y="318" text-anchor="middle" fill="#B2C0B6" fill-opacity=".72" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1.6">MEDIA ART · REAL-TIME VISUALS · INTERACTION</text>
+
+    <circle cx="600" cy="363" r="3" fill="#5AF09A">
       <animate attributeName="r" values="3;8;3" dur="2.4s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/>
     </circle>
-    <rect x="1" y="1" width="1198" height="428" rx="25" stroke="url(#neon)" stroke-opacity=".28"/>
+    <rect x="1" y="1" width="1198" height="428" rx="25" stroke="#38CC77" stroke-opacity=".18"/>
   </g>
 </svg>
