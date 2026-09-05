@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Sungryong Ryu — Media Artist and Creative Coder" />
+  <img src="./assets/hero.svg" width="100%" alt="Hello New. The Power of Creativity" />
 </div>
 
 <div align="center">
@@ -9,9 +9,9 @@
   <sub>감각과 기술 사이에서 살아 움직이는 장면을 만듭니다.</sub>
   <br /><br />
   <a href="https://derivative.ca/"><img src="https://img.shields.io/badge/TouchDesigner-111111?style=for-the-badge&logoColor=white" alt="TouchDesigner" /></a>
-  <img src="https://img.shields.io/badge/GLSL-111111?style=for-the-badge&logo=opengl&logoColor=8A7CFF" alt="GLSL" />
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=42E8E0" alt="Python" />
-  <img src="https://img.shields.io/badge/Creative_Coding-111111?style=for-the-badge&logoColor=FF4FD8" alt="Creative Coding" />
+  <img src="https://img.shields.io/badge/GLSL-111111?style=for-the-badge&logo=opengl&logoColor=5AF09A" alt="GLSL" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=39D77C" alt="Python" />
+  <img src="https://img.shields.io/badge/Creative_Coding-111111?style=for-the-badge&logoColor=1FC96A" alt="Creative Coding" />
 </div>
 
 <br />
@@ -68,4 +68,3 @@ flowchart LR
   <img src="./assets/footer.svg" width="100%" alt="Endless signal animation" />
   <sub>© Sungryong Ryu · Rendered in real time, imagined beyond the frame.</sub>
 </div>
-
