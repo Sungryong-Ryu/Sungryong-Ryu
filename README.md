@@ -9,7 +9,7 @@
   <sub>회화와 언어, 디자인과 기술 사이에서 새로운 감각을 만듭니다.</sub>
   <br /><br />
   <a href="https://www.hwagodong.com"><img src="https://img.shields.io/badge/ARTIST_WEBSITE-Visit_Hwagodong-159447?style=for-the-badge" alt="Artist Website — Hwagodong" /></a>
-  <a href="https://rhgda.com"><img src="https://img.shields.io/badge/RHGDA-Publishing-1FC96A?style=for-the-badge" alt="RHGDA Publishing" /></a>
+  <a href="https://www.rhgda.com"><img src="https://img.shields.io/badge/RHGDA-Publishing-1FC96A?style=for-the-badge" alt="RHGDA Publishing" /></a>
 </div>
 
 <br />
@@ -37,7 +37,7 @@ I am a painter and poet working across visual art, language, design, and technol
 
 회화 작업과 작가 활동을 소개하는 공식 홈페이지입니다.
 
-### [RHGDA — Publishing](https://rhgda.com)
+### [RHGDA — Publishing](https://www.rhgda.com)
 
 시집과 출판 활동을 만나볼 수 있는 공식 출판 홈페이지입니다.
 
@@ -64,7 +64,7 @@ iOS 환경에서 디자인과 개발을 함께 탐구한 프로젝트입니다.
 ## CONTACT & LINKS
 
 - Artist portfolio — [hwagodong.com](https://www.hwagodong.com)
-- Publishing — [rhgda.com](https://rhgda.com)
+- Publishing — [www.rhgda.com](https://www.rhgda.com)
 
 <div align="center">
   <img src="./assets/footer.svg" width="100%" alt="Endless green signal animation" />
