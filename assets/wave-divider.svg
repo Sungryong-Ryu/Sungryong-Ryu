@@ -1,7 +1,7 @@
 <svg width="1200" height="100" viewBox="0 0 1200 100" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1200" y2="0">
-      <stop stop-color="#42E8E0" stop-opacity="0"/><stop offset=".25" stop-color="#42E8E0"/><stop offset=".52" stop-color="#8A7CFF"/><stop offset=".78" stop-color="#FF4FD8"/><stop offset="1" stop-color="#FF4FD8" stop-opacity="0"/>
+      <stop stop-color="#159447" stop-opacity="0"/><stop offset=".25" stop-color="#159447"/><stop offset=".52" stop-color="#5AF09A"/><stop offset=".78" stop-color="#1FC96A"/><stop offset="1" stop-color="#1FC96A" stop-opacity="0"/>
     </linearGradient>
     <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
@@ -9,4 +9,3 @@
     <animate attributeName="d" dur="4s" repeatCount="indefinite" values="M0 50 H340 C400 50 410 14 455 14 C500 14 508 86 555 86 C602 86 610 30 655 30 C700 30 710 66 760 66 H1200;M0 50 H300 C360 50 380 74 430 74 C480 74 490 22 540 22 C590 22 610 80 665 80 C720 80 730 42 790 42 H1200;M0 50 H340 C400 50 410 14 455 14 C500 14 508 86 555 86 C602 86 610 30 655 30 C700 30 710 66 760 66 H1200"/>
   </path>
 </svg>
-
