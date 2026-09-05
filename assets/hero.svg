@@ -1,0 +1,66 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050509"/>
+      <stop offset="0.52" stop-color="#0A0A15"/>
+      <stop offset="1" stop-color="#030307"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="140" y1="80" x2="1040" y2="350" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#42E8E0"/>
+      <stop offset="0.48" stop-color="#8A7CFF"/>
+      <stop offset="1" stop-color="#FF4FD8"/>
+    </linearGradient>
+    <radialGradient id="orbA">
+      <stop stop-color="#42E8E0" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#42E8E0" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbB">
+      <stop stop-color="#FF4FD8" stop-opacity=".58"/>
+      <stop offset="1" stop-color="#FF4FD8" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="44"/></filter>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#FFFFFF" stroke-opacity=".045"/>
+    </pattern>
+    <clipPath id="round"><rect width="1200" height="430" rx="26"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="430" fill="url(#bg)"/>
+    <rect width="1200" height="430" fill="url(#grid)"/>
+
+    <circle cx="190" cy="92" r="210" fill="url(#orbA)" filter="url(#blur)">
+      <animate attributeName="cx" values="190;390;190" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="92;170;92" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1010" cy="338" r="240" fill="url(#orbB)" filter="url(#blur)">
+      <animate attributeName="cx" values="1010;820;1010" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="338;240;338" dur="8s" repeatCount="indefinite"/>
+    </circle>
+
+    <g opacity=".55" filter="url(#glow)">
+      <path d="M-40 286 C120 190 190 350 350 257 S610 175 770 268 S1020 342 1240 194" stroke="url(#neon)" stroke-width="2">
+        <animate attributeName="d" dur="8s" repeatCount="indefinite"
+          values="M-40 286 C120 190 190 350 350 257 S610 175 770 268 S1020 342 1240 194;M-40 250 C110 350 230 175 380 260 S650 350 800 238 S1050 170 1240 278;M-40 286 C120 190 190 350 350 257 S610 175 770 268 S1020 342 1240 194"/>
+      </path>
+      <path d="M-40 305 C130 215 220 370 370 280 S650 205 800 290 S1040 360 1240 220" stroke="url(#neon)" stroke-opacity=".35">
+        <animate attributeName="d" dur="10s" repeatCount="indefinite"
+          values="M-40 305 C130 215 220 370 370 280 S650 205 800 290 S1040 360 1240 220;M-40 280 C130 375 240 200 400 285 S660 375 820 262 S1060 195 1240 300;M-40 305 C130 215 220 370 370 280 S650 205 800 290 S1040 360 1240 220"/>
+      </path>
+    </g>
+
+    <text x="600" y="158" text-anchor="middle" fill="#F7F7FC" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="9">SUNGRYONG RYU</text>
+    <text x="600" y="207" text-anchor="middle" fill="url(#neon)" font-family="monospace" font-size="16" letter-spacing="4" filter="url(#glow)">MEDIA ARTIST · CREATIVE CODER</text>
+    <text x="600" y="352" text-anchor="middle" fill="#FFFFFF" fill-opacity=".42" font-family="monospace" font-size="11" letter-spacing="2.5">GENERATIVE SYSTEMS / REAL-TIME VISUALS / INTERACTION</text>
+
+    <circle cx="600" cy="254" r="4" fill="#FFFFFF">
+      <animate attributeName="r" values="3;8;3" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="1" y="1" width="1198" height="428" rx="25" stroke="url(#neon)" stroke-opacity=".28"/>
+  </g>
+</svg>
