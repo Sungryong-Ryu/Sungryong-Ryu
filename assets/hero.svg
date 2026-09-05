@@ -53,15 +53,9 @@
       </path>
     </g>
 
-    <rect x="478" y="62" width="244" height="30" rx="15" fill="#07120B" stroke="#39D77C" stroke-opacity=".38"/>
-    <circle cx="500" cy="77" r="4" fill="#39D77C" filter="url(#glow)">
-      <animate attributeName="opacity" values="1;.3;1" dur="1.8s" repeatCount="indefinite"/>
-    </circle>
-    <text x="610" y="81" text-anchor="middle" fill="#9AAB9F" font-family="monospace" font-size="10" letter-spacing="1.4">CREATIVE SIGNAL ONLINE</text>
-
-    <text x="600" y="182" text-anchor="middle" fill="#F6FAF7" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="750" letter-spacing="-1">Hello New.</text>
-    <text x="600" y="251" text-anchor="middle" fill="#F6FAF7" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="750" letter-spacing="-1">The Power of Creativity</text>
-    <text x="600" y="318" text-anchor="middle" fill="#B2C0B6" fill-opacity=".72" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1.6">MEDIA ART · REAL-TIME VISUALS · INTERACTION</text>
+    <text x="600" y="164" text-anchor="middle" fill="#F6FAF7" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="750" letter-spacing="-1">Hello New.</text>
+    <text x="600" y="233" text-anchor="middle" fill="#F6FAF7" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="750" letter-spacing="-1">The Power of Creativity</text>
+    <text x="600" y="305" text-anchor="middle" fill="#B2C0B6" fill-opacity=".76" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2">PAINTING · POETRY · DESIGN · CODE</text>
 
     <circle cx="600" cy="363" r="3" fill="#5AF09A">
       <animate attributeName="r" values="3;8;3" dur="2.4s" repeatCount="indefinite"/>
