@@ -1,5 +1,5 @@
 <svg width="1200" height="130" viewBox="0 0 1200 130" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs><linearGradient id="g" x1="200" y1="0" x2="1000" y2="0"><stop stop-color="#42E8E0" stop-opacity="0"/><stop offset=".5" stop-color="#8A7CFF"/><stop offset="1" stop-color="#FF4FD8" stop-opacity="0"/></linearGradient><filter id="b"><feGaussianBlur stdDeviation="8"/></filter></defs>
+  <defs><linearGradient id="g" x1="200" y1="0" x2="1000" y2="0"><stop stop-color="#159447" stop-opacity="0"/><stop offset=".5" stop-color="#5AF09A"/><stop offset="1" stop-color="#159447" stop-opacity="0"/></linearGradient><filter id="b"><feGaussianBlur stdDeviation="8"/></filter></defs>
   <ellipse cx="600" cy="65" rx="260" ry="28" stroke="url(#g)" stroke-width="2">
     <animate attributeName="rx" values="210;330;210" dur="5s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values=".25;1;.25" dur="5s" repeatCount="indefinite"/>
@@ -7,5 +7,5 @@
   <ellipse cx="600" cy="65" rx="180" ry="14" fill="none" stroke="url(#g)" stroke-width="8" opacity=".35" filter="url(#b)">
     <animate attributeName="rx" values="310;170;310" dur="5s" repeatCount="indefinite"/>
   </ellipse>
-  <circle cx="600" cy="65" r="4" fill="#F7F7FC"><animate attributeName="opacity" values="1;.2;1" dur="1.8s" repeatCount="indefinite"/></circle>
+  <circle cx="600" cy="65" r="4" fill="#5AF09A"><animate attributeName="opacity" values="1;.2;1" dur="1.8s" repeatCount="indefinite"/></circle>
 </svg>
