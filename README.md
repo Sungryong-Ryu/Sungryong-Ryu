@@ -16,7 +16,7 @@
 
 ## ABOUT
 
-순수회화를 기반으로 작업하는 작가이자 최근 시집을 출간한 시인입니다.  
+순수회화를 기반으로 작업하는 미술작가이자 최근 음악시집을 출간한 작가입니다.  
 회화와 시에서 출발한 감각을 디자인과 개발로 확장하며, 서로 다른 매체가 만나는 지점을 탐구합니다.
 
 I am a painter and poet working across visual art, language, design, and technology.
@@ -39,7 +39,7 @@ I am a painter and poet working across visual art, language, design, and technol
 
 ### [RHGDA — Publishing](https://www.rhgda.com)
 
-시집과 출판 활동을 만나볼 수 있는 공식 출판 홈페이지입니다.
+도서 출판 활동을 만나볼 수 있는 공식 출판 홈페이지입니다.
 
 <br />
 
@@ -57,7 +57,7 @@ iOS 환경에서 디자인과 개발을 함께 탐구한 프로젝트입니다.
 
 ### [RORORO](https://github.com/Sungryong-Ryu/RORORO)
 
-서로 다른 창작 언어를 연결하기 위해 세 명이 함께 만드는 실험적 협업 프로젝트입니다.
+서로 다른 창작 언어를 연결하기 위해 세 명이 함께 만드는 실험적 협업 미디어 아트 프로젝트입니다.
 
 <br />
 
