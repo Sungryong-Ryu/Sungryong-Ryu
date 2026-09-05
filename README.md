@@ -4,67 +4,69 @@
 
 <div align="center">
   <br />
-  <strong>INTERACTION × LIGHT × MOTION</strong>
+  <strong>PAINTER · POET · DESIGNER · DEVELOPER</strong>
   <br />
-  <sub>감각과 기술 사이에서 살아 움직이는 장면을 만듭니다.</sub>
+  <sub>회화와 언어, 디자인과 기술 사이에서 새로운 감각을 만듭니다.</sub>
   <br /><br />
-  <a href="https://derivative.ca/"><img src="https://img.shields.io/badge/TouchDesigner-111111?style=for-the-badge&logoColor=white" alt="TouchDesigner" /></a>
-  <img src="https://img.shields.io/badge/GLSL-111111?style=for-the-badge&logo=opengl&logoColor=5AF09A" alt="GLSL" />
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=39D77C" alt="Python" />
-  <img src="https://img.shields.io/badge/Creative_Coding-111111?style=for-the-badge&logoColor=1FC96A" alt="Creative Coding" />
+  <a href="https://www.hwagodong.com"><img src="https://img.shields.io/badge/ARTIST_WEBSITE-Visit_Hwagodong-159447?style=for-the-badge" alt="Artist Website — Hwagodong" /></a>
+  <a href="https://rhgda.com"><img src="https://img.shields.io/badge/RHGDA-Publishing-1FC96A?style=for-the-badge" alt="RHGDA Publishing" /></a>
 </div>
 
 <br />
 
-## CURRENT SIGNAL
+## ABOUT
 
-```text
-ROLE        Media Artist · Creative Coder
-FOCUS       Real-time visuals · Interactive systems · Generative motion
-TOOLS       TouchDesigner · GLSL · Python · Computer Vision
-STATUS      Building RORORO with a three-person art team
-```
+순수회화를 기반으로 작업하는 작가이자 최근 시집을 출간한 시인입니다.  
+회화와 시에서 출발한 감각을 디자인과 개발로 확장하며, 서로 다른 매체가 만나는 지점을 탐구합니다.
 
-<img src="./assets/wave-divider.svg" width="100%" alt="animated neon waveform" />
+I am a painter and poet working across visual art, language, design, and technology.
 
-## SELECTED PROJECT
+<img src="./assets/wave-divider.svg" width="100%" alt="animated green waveform" />
+
+## PRACTICE
+
+| PAINTING | POETRY | DESIGN & CODE |
+|:---|:---|:---|
+| 색과 물질, 화면의 감각을 탐구합니다. | 언어와 이미지 사이의 리듬을 씁니다. | 아이디어를 디지털 경험과 제품으로 구현합니다. |
+
+<br />
+
+## VISIT
+
+### [Hwagodong — Artist Website](https://www.hwagodong.com)
+
+회화 작업과 작가 활동을 소개하는 공식 홈페이지입니다.
+
+### [RHGDA — Publishing](https://rhgda.com)
+
+시집과 출판 활동을 만나볼 수 있는 공식 출판 홈페이지입니다.
+
+<br />
+
+## DESIGN & DEVELOPMENT
+
+<div>
+  <img src="https://img.shields.io/badge/Swift-111111?style=for-the-badge&logo=swift&logoColor=39D77C" alt="Swift" />
+  <img src="https://img.shields.io/badge/SwiftUI-111111?style=for-the-badge&logo=swift&logoColor=5AF09A" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/Product_Design-111111?style=for-the-badge&logo=figma&logoColor=1FC96A" alt="Product Design" />
+</div>
+
+### [FastMap](https://github.com/Sungryong-Ryu/2026-C5-M15-FastMap)
+
+iOS 환경에서 디자인과 개발을 함께 탐구한 프로젝트입니다.
 
 ### [RORORO](https://github.com/Sungryong-Ryu/RORORO)
 
-> A collaborative media-art laboratory built with TouchDesigner.
-
-실시간 그래픽, 인터랙션, 센서 입력을 하나의 공연 가능한 시스템으로 연결하는 미디어 아트 프로젝트입니다. 세 명의 팀원이 충돌 없이 실험하고 통합할 수 있는 제작 방식을 함께 설계하고 있습니다.
-
-`TouchDesigner` · `GLSL` · `Python` · `Real-time Interaction`
+서로 다른 창작 언어를 연결하기 위해 세 명이 함께 만드는 실험적 협업 프로젝트입니다.
 
 <br />
 
-## CREATIVE FREQUENCIES
+## CONTACT & LINKS
 
-| 01 — GENERATIVE | 02 — INTERACTIVE | 03 — IMMERSIVE |
-|:---|:---|:---|
-| 규칙에서 태어나는 예측 불가능한 형태 | 몸짓과 공간에 반응하는 시각 시스템 | 빛, 움직임, 소리가 만드는 하나의 장면 |
-
-<br />
-
-## TOOLBOX
-
-```mermaid
-flowchart LR
-    A[Human Input] --> B[Computer Vision]
-    B --> C[TouchDesigner]
-    C --> D[GLSL / Generative System]
-    D --> E[Light · Image · Space]
-```
-
-<br />
-
-## LET'S MAKE SOMETHING ALIVE
-
-새로운 감각, 실시간 이미지, 인터랙티브 공간에 관심이 있습니다.  
-프로젝트와 실험은 이곳에 천천히 기록합니다.
+- Artist portfolio — [hwagodong.com](https://www.hwagodong.com)
+- Publishing — [rhgda.com](https://rhgda.com)
 
 <div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Endless signal animation" />
-  <sub>© Sungryong Ryu · Rendered in real time, imagined beyond the frame.</sub>
+  <img src="./assets/footer.svg" width="100%" alt="Endless green signal animation" />
+  <sub>© Sungryong Ryu · Painting, poetry, design, and code.</sub>
 </div>
